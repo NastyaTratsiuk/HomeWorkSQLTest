@@ -1,0 +1,11 @@
+{
+  "userName" : "root",
+  "password" : "12345qwert",
+  "connectionUrl" : "jdbc:mysql://localhost:3306/union_reporting",
+  "authorName" : "Marfa",
+  "authorLogin" : "Marfa12345",
+  "authorEmail" : "marfa.@mail.ru",
+  "sessionBuildNunber" : 10,
+  "env" : "DESCTOP",
+  "browser" : "chrome"
+}
